@@ -4,7 +4,7 @@
 
  <h1 align="center"> Hi, I'm Omar GARIBOV</h1>
 
-## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 
+## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 📚
 
 
 
