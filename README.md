@@ -17,7 +17,7 @@
 
  <div align="center">
     
- <img height=150 src="https://github-readme-stats.vercel.app/api?username=jackdow-ek&show_icons=true&theme=radical&hide=stars"/>
+ <img height=150 src="https://github-readme-stats.vercel.app/api?username=jackdow-ek&show_icons=true&theme=radical"/>
  
  <img height=150  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackdow-ek&theme=radical&layout=compact">
   
