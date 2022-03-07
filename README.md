@@ -30,6 +30,7 @@
 <summary>Interests</summary><br>
 
   ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-FFFDD0?style=flat&logo=python&logoColor=blue)
   ![Dart](https://img.shields.io/badge/-Dart-0099FF?style=flat&logo=dart&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white) 
   ![C#](https://img.shields.io/badge/C%23-6600CC?style=badge&logo=c-sharp&logoColor=white)
