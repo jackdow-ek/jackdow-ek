@@ -24,32 +24,16 @@
   </div>
   
  
+<h3 align="left">Languages and Tools:</h3>
+
+
 
 
  
 <summary>Interests</summary><br>
-
-  ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-FFFDD0?style=flat&logo=python&logoColor=blue)
-  ![Dart](https://img.shields.io/badge/-Dart-0099FF?style=flat&logo=dart&logoColor=white)
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=badge&logo=c%2B%2B&logoColor=white) 
-  ![C#](https://img.shields.io/badge/C%23-6600CC?style=badge&logo=c-sharp&logoColor=white)
-  ![C](https://img.shields.io/badge/-C-3F47CC?style=flat&logo=c&logoColor=white)<br>
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=badge&logo=javascript&logoColor=black)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)<br>
-  ![Flutter](https://img.shields.io/badge/-Flutter-20232A?style=flat&logo=flutter&logoColor=61DAFB)
-  ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white)
-  ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=badge&logo=visual%20studio%20code&logoColor=white)
-  ![Visual_Studio_2019](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=badge&logo=visual%20studio&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=badge&logo=eclipse&logoColor=white)<br>
-  ![Arduino](https://img.shields.io/badge/-Arduino-0099FF?style=flat&logo=arduino&logoColor=white)<br>
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-00599C?style=flat&logo=PostgreSQL&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/-MySQL-0078D4?style=flat&logo=MySQL&logoColor=white)
-  ![MsSQL](https://img.shields.io/badge/-MsSQL-0078D4?style=flat&logo=MsSQL&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/-Firebase-FFCA2C?style=flat&logo=Firebase&logoColor=white)
+<p align="left">  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+ </p>
+ 
 
   
 
