@@ -2,16 +2,14 @@
 
 
 
- <h1 align="center"> Hi, I'm Omar GARIBOV</h1>
-
-## 𝘐'𝘮 𝘢 𝘴𝘵𝘶𝘥𝘦𝘯𝘵 📚
+ <h1 align="center"> Hi, I'm Omar GARIBOV</h1
 
 
 
 
 <summary>About me</summary><br>
   
--  Hello. I am a computer engineering student at Sakarya University. I love software and coffee. 
+-  Hello. I love software and coffee. 
 
 
 
